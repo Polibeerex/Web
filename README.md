@@ -1,2 +1,2 @@
 # Web
-https://polibeerex.github.io/web
+https://polibeerex.github.io/Web/
